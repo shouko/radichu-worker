@@ -1,0 +1,17 @@
+{
+  "name": "radichu-worker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "better-queue": "^3.8.10",
+    "dotenv": "^8.2.0",
+    "fs-extra": "^9.0.1",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}

@@ -1,0 +1,5 @@
+node_modules
+rule*.json
+.env
+download
+save.sh
